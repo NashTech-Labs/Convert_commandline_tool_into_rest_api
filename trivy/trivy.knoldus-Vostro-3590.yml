@@ -1,0 +1,8 @@
+
+#This is a host-specific configuration file for the webservice on knoldus-Vostro-3590
+#Here you can add host-specific options. This file
+#always takes presence over configurations that are not host specific
+host: knoldus-Vostro-3590
+root: /home/knoldus/trivy/userdata
+port: 8081
+#use_forwarded_host: true #(enable this if you run behind a properly configured reverse proxy only)

@@ -1,0 +1,5 @@
+include README*
+include trivy/*.py
+include trivy/*.sh
+include trivy/*.wsgi
+include trivy/*.yml
